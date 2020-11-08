@@ -23,3 +23,10 @@ javascript like syntax (x => x+2).
 | `F(X<2)`     | `lambda x: x<2`     |
 | `F(X==Y)`    | `lambda x, y: x==y` |
 | `F(X*Y)`     | `lambda x, y: x*y`  |
+
+# Setup
+
+Clone and run
+```
+pip install .
+```
